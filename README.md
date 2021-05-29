@@ -13,7 +13,7 @@
 🛠  Habilities
 
     💻   Java, PYTHON
-    🌐   HTML5, CSS, JavaScript, Bootstrap.
+    🌐   HTML5, CSS, JavaScript, Bootstrap, PHP.
     🛢   MySQL, NoSQL, MongoDB
     ⚙️   Git GitHub Markdown
     🔧   Visual Studio Code, Eclipse, Android Studio
