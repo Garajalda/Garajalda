@@ -15,7 +15,8 @@
 👨🏻‍💻  About Me 
 
     🤔   Exploring new technologies that practice in my free time. 
-    🎓   I am a systems administrator and currently in a higher cycle of multiplatform development.
+    🎓   I'm studing multiplatform development.
+    🎓   Systems Administrator.
     
 
 🛠  Habilities
