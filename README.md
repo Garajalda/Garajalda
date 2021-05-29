@@ -1,7 +1,9 @@
 <html>
-    <h1 style="color:#FF0000";><b>gara@1kgdelate:~#</b> 
-      Hey there! I'm Gara.
-    </h1>
+    <hr></hr>
+     <h1 align="left" style="color:#FF0000";><b>gara@1kgdelate:~#</b> 
+     Hey there! I'm Gara.
+     </h1>
+     <img alingn="right"></img>
 </html>
 
 👨🏻‍💻  About Me 
@@ -20,4 +22,4 @@
     🖥   Illustrator, Photoshop
     
     💻 VirtualBox, MVware, Docker
-
+<hr></hr>
