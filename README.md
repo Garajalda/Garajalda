@@ -1,9 +1,15 @@
 <html>
     <hr></hr>
-     <h1 align="left" style="color:#FF0000";><b>gara@1kgdelate:~#</b> 
+    <div align="left">
+    <table border="0">
+        <tr>
+            <td width="810px"><h1 align="center">gara@1kgdelate:~# 
      Hey there! I'm Gara.
-     </h1>
-     <img alingn="right"></img>
+     </h1></td>
+            <td><img style="border-radius: 20px;" src="imgPer.jpeg" height="130" width="130"></img></td>
+        </tr>
+    </table>
+    </div>
 </html>
 
 👨🏻‍💻  About Me 
