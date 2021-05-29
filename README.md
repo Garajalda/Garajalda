@@ -3,7 +3,7 @@
     <div align="left">
     <table border="0">
         <tr>
-            <td width="800px"><h1 align="center">gara@1kgdelate:~# 
+            <td width="700px"><h1 align="center">gara@1kgdelate:~# 
      Hey there! I'm Gara.
      </h1></td>
             <td><img style="border-radius: 20px;" src="imgPer.jpeg" height="130" width="130"></img></td>
