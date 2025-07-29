@@ -5,7 +5,7 @@
         <tr>
             <td width="700px"><h1 align="center">gara@home:~# 
      ls repository
-     </h1>Computer Engineer student</td>
+           Computer Engineer student</td>
         </tr>
        </table>
     </div>
